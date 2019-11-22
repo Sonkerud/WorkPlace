@@ -6,8 +6,8 @@ namespace WorkPlace
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Alexander Dev");
-            Console.WriteLine("Alexander Dev 1");
+            Console.WriteLine("");
+           
 
         }
     }
